@@ -17,6 +17,8 @@ Links
 Stats
 -----
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-readme-stats.vercel.app/api?username=tadashi-aikawa&include_all_commits=true&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=tadashi-aikawa&langs_count=10)
