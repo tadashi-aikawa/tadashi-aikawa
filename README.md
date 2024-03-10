@@ -11,8 +11,7 @@ Links
 | -------- | ----------------------------------------------------------------- |
 | Site     | [Minerva](https://minerva.mamansoft.net/)                        |
 | Blog | [Minerva > Articles](https://minerva.mamansoft.net/%F0%9F%93%98Articles/%F0%9F%93%92Articles) |
-| Blog (archived)     | [MAMANのITブログ](https://github.com/tadashi-aikawa)              |
-| Twitter  | [tadashi-aikawa@Tadashi_MAMAN](https://twitter.com/Tadashi_MAMAN) |
+| Bluesky  | [tadashi-aikawa](https://bsky.app/profile/tadashi-aikawa.bsky.social) |
 
 Stats
 -----
